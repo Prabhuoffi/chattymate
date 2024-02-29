@@ -1,0 +1,2 @@
+# chattymate
+simple chat application 
